@@ -1,0 +1,23 @@
+{
+  "name": "cloudinary-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linzmeyer/cloudinary-intro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linzmeyer/cloudinary-intro/issues"
+  },
+  "homepage": "https://github.com/linzmeyer/cloudinary-intro#readme",
+  "dependencies": {
+    "cloudinary": "^1.30.0"
+  }
+}
